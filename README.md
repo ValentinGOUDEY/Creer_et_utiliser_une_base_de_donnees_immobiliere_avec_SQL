@@ -19,7 +19,7 @@ All of my projects are in french, if you would like to see them translated pleas
 
 Les données :
 
-Data = fichier contenant les adresses, caractéristiquess et ventes des biens
+Data = fichier contenant les données brut: les adresses, caractéristiquess et ventes des biens
 
 Les fichiers :
 
